@@ -1,0 +1,29 @@
+:root {
+    --red: "#FF000";
+}
+
+body {
+    font-size: 1rem;
+}
+
+.titulo {
+    font-size: 10rem;
+}
+
+.subtitulo {
+    font-size: 5rem;
+}
+
+.grafico {
+    display: flex;
+}
+
+.indice {}
+
+.semana {}
+
+.semana__valor {}
+
+.semana__barra {}
+
+.semana__numero {}
