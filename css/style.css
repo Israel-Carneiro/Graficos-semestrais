@@ -1,13 +1,21 @@
 :root {
-    --red: "#FF000";
+    --verde: "#008000";
+    --azul: "#0000FF";
+    --vermelho: "#FF000";
+    --magenta: "#A7727D";
+    --bege-escuro: "#EDDBC7";
+    --bege: "#F8EAD8";
+    --bege-claro: "#F9F5E7";
 }
 
 body {
     font-size: 1rem;
+    background-color: var(--bege);
 }
 
 .titulo {
     font-size: 4rem;
+    color: var(--magenta);
 }
 
 .subtitulo {
