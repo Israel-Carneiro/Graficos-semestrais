@@ -11,7 +11,7 @@
 body {
     font-size: 1rem;
     background-color: var(--bege);
-    margin: 0 8rem 0 8rem;
+    margin: 0 6rem 0 6rem;
 }
 
 .titulo {
@@ -35,7 +35,9 @@ body {
     text-align: right;
 }
 
-.semana {}
+.semana {
+    width: 3rem;
+}
 
 .semana__valor {}
 
