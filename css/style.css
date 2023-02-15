@@ -1,11 +1,11 @@
 :root {
-    --verde: "#008000";
-    --azul: "#0000FF";
-    --vermelho: "#FF000";
-    --magenta: "#A7727D";
-    --bege-escuro: "#EDDBC7";
-    --bege: "#F8EAD8";
-    --bege-claro: "#F9F5E7";
+    --verde: #008000;
+    --azul: #0000FF;
+    --vermelho: #FF0000;
+    --magenta: #A7727D;
+    --bege-escuro: #EDDBC7;
+    --bege: #F8EAD8;
+    --bege-claro: #F9F5E7;
 }
 
 body {
