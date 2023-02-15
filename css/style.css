@@ -11,6 +11,7 @@
 body {
     font-size: 1rem;
     background-color: var(--bege);
+    margin: 0 8rem 0 8rem;
 }
 
 .titulo {
@@ -22,13 +23,17 @@ body {
 
 .subtitulo {
     font-size: 3rem;
+    margin: 1rem;
 }
 
 .grafico {
     display: flex;
 }
 
-.indice {}
+.indice {
+    margin-right: 1rem;
+    text-align: right;
+}
 
 .semana {}
 
