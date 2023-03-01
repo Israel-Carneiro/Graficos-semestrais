@@ -1,4 +1,4 @@
-const ctx = document.getElementById('line-chart');
+const ctx = document.getElementById('line-chart__02-2022');
       
 new Chart(ctx, {
     type: 'line',
