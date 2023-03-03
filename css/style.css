@@ -36,3 +36,8 @@ body {
     background-color: var(--bege-escuro);
     padding: 3rem 2rem;
 }
+
+svg {
+    width: 18rem;
+    height: 18rem;
+}
