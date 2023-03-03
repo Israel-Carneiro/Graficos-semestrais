@@ -25,29 +25,3 @@ body {
     font-size: 3rem;
     margin: 1rem;
 }
-
-.grafico {
-    display: flex;
-}
-
-.indice {
-    margin-right: 1rem;
-    text-align: right;
-}
-
-.semana {
-    width: 3rem;
-    text-align: center;
-}
-
-.semana__valor {}
-
-.total30 {
-    height: 85.5px;
-    margin: 64.5px .5rem 0 .5rem;
-    background-color: var(--verde);
-}
-
-.semana__barra {}
-
-.semana__numero {}
