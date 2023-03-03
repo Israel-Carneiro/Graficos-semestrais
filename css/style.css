@@ -55,3 +55,8 @@ svg circle {
 svg circle:nth-child(1) {
     stroke-dashoffset: 0;
 }
+
+svg circle:nth-child(2) {
+    stroke-dashoffset: calc(var(--circunferencia) - (var(--circunferencia) * var(--porcentagem)) / 100);
+    stroke-linecap: round;
+}
