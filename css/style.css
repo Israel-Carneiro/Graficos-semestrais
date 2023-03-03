@@ -48,4 +48,6 @@ svg {
 svg circle {
     stroke-dasharray: var(--circunferencia);
     stroke-dashoffset: var(--circunferencia);
+    stroke-width: 35;
+    fill: none;
 }
