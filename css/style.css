@@ -25,3 +25,9 @@ body {
     font-size: 3rem;
     margin: 1rem;
 }
+
+.donut {
+    display: flex;
+    justify-content: space-between;
+    margin: 4rem 0;
+}
