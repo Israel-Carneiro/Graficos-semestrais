@@ -4,7 +4,7 @@
     --vermelho: #FF0000;
     --magenta: #A7727D;
     --bege-escuro: #EDDBC7;
-    --bege: #F8EAD8;
+    --cor-de-body: #ECF2FF;
     --bege-claro: #F9F5E7;
 
     --circunferencia: 628;
@@ -12,7 +12,7 @@
 
 body {
     font-size: 1rem;
-    background-color: var(--bege);
+    background-color: var(--cor-de-body);
     margin: 0 6rem 0 6rem;
 }
 
