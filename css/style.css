@@ -28,7 +28,7 @@ body {
 
 .donut {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     margin: 4rem 0;
 }
 
@@ -38,6 +38,5 @@ body {
 }
 
 svg {
-    width: 18rem;
-    height: 18rem;
+    width: 200px;
 }
