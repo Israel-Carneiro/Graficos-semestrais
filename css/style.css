@@ -6,6 +6,8 @@
     --bege-escuro: #EDDBC7;
     --bege: #F8EAD8;
     --bege-claro: #F9F5E7;
+
+    --circunferencia: 628;
 }
 
 body {
@@ -39,4 +41,5 @@ body {
 
 svg {
     width: 200px;
+    height: 200px;
 }
