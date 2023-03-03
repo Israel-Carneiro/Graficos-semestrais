@@ -44,3 +44,8 @@ svg {
     height: 200px;
     transform: rotate(-90deg);
 }
+
+svg circle {
+    stroke-dasharray: var(--circunferencia);
+    stroke-dashoffset: var(--circunferencia);
+}
