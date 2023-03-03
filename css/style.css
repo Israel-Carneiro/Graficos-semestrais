@@ -31,3 +31,8 @@ body {
     justify-content: space-between;
     margin: 4rem 0;
 }
+
+.donut__equipe {
+    background-color: var(--bege-escuro);
+    padding: 3rem 2rem;
+}
