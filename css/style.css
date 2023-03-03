@@ -59,4 +59,13 @@ svg circle:nth-child(1) {
 svg circle:nth-child(2) {
     stroke-dashoffset: calc(var(--circunferencia) - (var(--circunferencia) * var(--porcentagem)) / 100);
     stroke-linecap: round;
+    animation: progresso 2s ease-in-out backwards;
+    animation-delay: 1s;
+}
+
+@keyframes progresso {
+    0% {
+        stroke-dasharray: var(--circunferencia);
+        stroke-dashoffset: var(--circunferencia);
+    }
 }
