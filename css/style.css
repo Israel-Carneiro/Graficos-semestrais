@@ -20,22 +20,24 @@ body {
     font-size: 4rem;
     text-align: center;
     margin: 2rem;
-    color: var(--magenta);
 }
 
 .subtitulo {
+    display: inline;
     font-size: 3rem;
     margin: 1rem;
+    background-color: var(--magenta);
 }
 
 .donut {
     display: flex;
     justify-content: space-evenly;
     margin: 4rem 0;
+    background-color: var(--sessão-de-graficos);
 }
 
 .donut__equipe {
-    background-color: var(--bege-escuro);
+    background-color: var(--cor-grafico-donut);
     padding: 3rem 2rem;
 }
 
