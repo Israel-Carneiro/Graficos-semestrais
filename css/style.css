@@ -40,9 +40,13 @@ body {
 }
 
 .donut__box {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     background-color: var(--cor-grafico-donut);
     padding: 1rem 2rem;
     border-radius: 2rem;
+    max-width: 25%;
 }
 
 svg {
