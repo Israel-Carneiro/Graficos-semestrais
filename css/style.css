@@ -80,6 +80,15 @@ body {
     font-size: 1.25rem;
 }
 
+.box__bottom {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.donut__resultado {
+    margin: 1rem .5rem;
+}
+
 svg {
     width: 200px;
     height: 200px;
