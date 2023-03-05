@@ -55,6 +55,11 @@ body {
     text-align: center;
 }
 
+.legenda__paragrafo {
+    font-size: 1.25rem;
+    margin: 1rem;
+}
+
 svg {
     width: 200px;
     height: 200px;
