@@ -13,7 +13,7 @@
 body {
     font-size: 1rem;
     background-color: var(--cor-de-body);
-    margin: 0 4rem 0 4rem;
+    margin: 0 7rem 0 7rem;
 }
 
 .titulo {
@@ -33,7 +33,7 @@ body {
 .graficos__box {
     display: flex;
     justify-content: space-evenly;
-    padding: 4rem 0;
+    padding: 4rem 2rem;
     margin-bottom: 4rem;
     background-color: var(--sessão-de-graficos);
     border-radius: 0 1rem 1rem 1rem;
@@ -41,7 +41,7 @@ body {
 
 .donut__equipe {
     background-color: var(--cor-grafico-donut);
-    padding: 3rem 2rem;
+    padding: 1rem 2rem;
     border-radius: 2rem;
 }
 
