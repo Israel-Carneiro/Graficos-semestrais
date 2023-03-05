@@ -72,6 +72,14 @@ body {
     transform: translate(-50%, -50%);
 }
 
+.content__titulo {
+    font-size: 1.75rem;
+}
+
+.content__paragrafo {
+    font-size: 1.25rem;
+}
+
 svg {
     width: 200px;
     height: 200px;
