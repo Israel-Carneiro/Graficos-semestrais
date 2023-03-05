@@ -39,7 +39,7 @@ body {
     border-radius: 0 1rem 1rem 1rem;
 }
 
-.donut__equipe {
+.donut__box {
     background-color: var(--cor-grafico-donut);
     padding: 1rem 2rem;
     border-radius: 2rem;
