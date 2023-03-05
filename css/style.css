@@ -49,6 +49,12 @@ body {
     max-width: 25%;
 }
 
+.box__titulo {
+    font-size: 2rem;
+    margin: 1rem;
+    text-align: center;
+}
+
 svg {
     width: 200px;
     height: 200px;
