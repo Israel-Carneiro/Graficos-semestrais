@@ -60,6 +60,18 @@ body {
     margin: 1rem;
 }
 
+.box__middle {
+    text-align: center;
+    position: relative;
+}
+
+.box__middle .content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 svg {
     width: 200px;
     height: 200px;
