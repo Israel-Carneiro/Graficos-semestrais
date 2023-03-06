@@ -1,7 +1,8 @@
 :root {
     --azul: linear-gradient(45deg, #08508a 15%, #57c0da 80%);
-    --vermelho: linear-gradient(45deg, #d7491f 15%, #f19854 80%);;
+    --vermelho: linear-gradient(45deg, #d7491f 15%, #f19854 80%);
     --magenta: #A7727D;
+    --fundo-donut: #b5c0c5;
     --box-donut: #6096B4;
     --bg-body: #BDCDD6;
     --sessão-de-graficos: #93BFCF;
