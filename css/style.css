@@ -86,7 +86,19 @@ body {
 }
 
 .donut__resultado {
+    --bg-color: #b5c0c5;
     margin: 1rem .5rem;
+    display: flex;
+    gap: .25rem;
+}
+
+.donut__resultado::before {
+    content: "";
+    height: 1rem;
+    width: 1rem;
+    display: block;
+    background: var(--bg-color);
+    border-radius: 1rem;
 }
 
 svg {
