@@ -1,10 +1,9 @@
 :root {
-    --verde: #008000;
-    --azul: #0000FF;
-    --vermelho: #FF0000;
+    --azul: linear-gradient(45deg, #08508a 15%, #57c0da 80%);
+    --vermelho: linear-gradient(45deg, #d7491f 15%, #f19854 80%);;
     --magenta: #A7727D;
-    --cor-grafico-donut: #6096B4;
-    --cor-de-body: #BDCDD6;
+    --box-donut: #6096B4;
+    --bg-body: #BDCDD6;
     --sessão-de-graficos: #93BFCF;
 
     --circunferencia: 628;
@@ -12,7 +11,7 @@
 
 body {
     font-size: 1rem;
-    background-color: var(--cor-de-body);
+    background-color: var(--bg-body);
     margin: 0 7rem 0 7rem;
 }
 
@@ -43,7 +42,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    background-color: var(--cor-grafico-donut);
+    background-color: var(--box-donut);
     padding: 1rem 2rem;
     border-radius: 2rem;
     max-width: 25%;
