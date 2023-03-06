@@ -18,7 +18,9 @@
 }
 
 .box__titulo {
-    font-size: 2rem;
+    font-family: var(--fonte-principal);
+    font-weight: 500;
+    font-size: 1.5rem;
     margin: 1rem;
     text-align: center;
 }
@@ -65,6 +67,8 @@ svg circle:nth-child(2) {
 }
 
 .content__titulo {
+    font-family: var(--fonte-principal);
+    font-weight: 500;
     font-size: 1.75rem;
 }
 
@@ -78,6 +82,8 @@ svg circle:nth-child(2) {
 }
 
 .donut__resultado {
+    font-size: .95rem;
+    align-items: center;
     --bg-color: #b5c0c5;
     margin: 1rem .5rem;
     display: flex;

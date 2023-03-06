@@ -16,18 +16,24 @@
 }
 
 body {
+    font-family: var(--fonte-secundaria);
+    font-weight: 400;
     font-size: 1rem;
     background-color: var(--bg-body);
     margin: 0 7rem 0 7rem;
 }
 
 .titulo {
+    font-family: var(--fonte-principal);
+    font-weight: 700;
     font-size: 4rem;
     text-align: center;
     margin: 3rem 0 5rem 0;
 }
 
 .subtitulo {
+    font-family: var(--fonte-principal);
+    font-weight: 500;
     display: inline;
     font-size: 3rem;
     margin-left: -3rem;
