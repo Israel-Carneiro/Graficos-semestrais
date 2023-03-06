@@ -1,6 +1,9 @@
 @import url(graficos.css);
 
 :root {
+    --fonte-principal: "Poppins"; /* Poppins weight: 500, 700 */
+    --fonte-secundaria: "Josefin Sans"; /* Josefin Sans weight: 400 */
+
     --azul: linear-gradient(45deg, #08508a 15%, #57c0da 80%);
     --vermelho: linear-gradient(45deg, #d7491f 15%, #f19854 80%);
     --fundo-donut: #b5c0c5;
