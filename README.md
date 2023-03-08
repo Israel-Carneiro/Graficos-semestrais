@@ -11,3 +11,10 @@ Dê uma olhada nos modelos de gráficos apresentados no projeto. Acesse o link p
 <div align="center">
   <img width="50%" src="imagem do resultado/screenshoot-graficos-semestrais-chartjs.png" alt="Designe da página de gráficos" />
 </div>
+
+## Objetivo
+
+O projeto simula o registro de dados de vendas durante o período de um semestre em uma campanha fictícia.
+
+Para apresentação do resultado final desses dados há dois **Gráficos Donuts** acompanhados por suas legendas, demonstrando uma porcentagem da meta alcansada por duas equipes distintas.<br>
+O acompanhamento dos resultados ao longo do semestre está representado pelo **Framework Chart.js**, dividido em periodos de semanas.
