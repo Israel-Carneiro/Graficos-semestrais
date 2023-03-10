@@ -39,3 +39,7 @@
 ## Referência
 
 Como mencionei no ultimo parágrafo do tópico **Aprendizados**, as soluções que encontrei foram sujestões de colegas da comunidade Code, Marcellus Caio e Gabriela Cantarini, a quem eu agradesço muito pela ajuda:
+
+ - Sugestão do gráfico Donut por :arrow_right: https://github.com/marcelluscaio
+ >Para desenvolver os dois gráficos Donut eu acompanhei as instruções em um vídeo informativo do canal do YouTube da Rocketseat (https://www.youtube.com/@rocketseat), mas o link do vídeo com as instruções não está mais disponível. É o projeto de número 08 de uma série de vídeos com o tema #boraCodar.
+ 
