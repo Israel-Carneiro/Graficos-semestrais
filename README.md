@@ -18,7 +18,7 @@
 
  >Para apresentação do resultado final desses dados há dois **Gráficos Donuts** acompanhados por suas legendas, demonstrando uma porcentagem da meta alcansada por duas equipes distintas.
  
- >O acompanhamento dos resultados ao longo do semestre está representado pelo **Framework Chart.js**, dividido em periodos de semanas.
+ >O acompanhamento dos resultados ao longo do semestre está representado pelo **Framework Chart.js**, dividido em periodos de semanas e com legendas para distinguir equipes (Equipe M = Azul; Equipe C = vermelho; Equipe Suplente = preto) e o total das vendas (verde).
 
 ## Principais Ferramentas utilizadas
 
