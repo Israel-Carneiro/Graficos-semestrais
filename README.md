@@ -32,3 +32,6 @@
  
  >Com o aprendizado que tive para desenvolver o gráfico **Gráfico Donut**, eu pude perceber como é grande o controle do CSS sobre diferentes formas gráficas e geometricas que podem ser facilmente mescladas e apresentadas!
  Basicamente o Donut é composto por duas circunferências de interior transparente, uma cinza ao fundo representando 100% da circunferência e outra á frente da primeira que recebe as definições (<defs>) com o gradiente linear das cores escolhidas para representar a porcentágem que o gráfico tem a intenção de demonstrar.
+
+ >Após uma conversa entre colegas sobre algumas opções de gráficos construidos a partir do JavaScript, a descoberta do **Framework ChartJS** caiu como uma luva para o meu projeto. Para minha surpresa este framework é bem simples de usar, com uma documentação bem definita e super funcional!
+ Há muitas formas de se usar o framework, podendo construir graficos de barra, linear, formato de pizza, áreas de formas geométricas, inclusive é possivel mesclar alguns formatos. Tudo isso dispensando a ajda do CSS de maneira muito prática e rápida de se desenvolver.
