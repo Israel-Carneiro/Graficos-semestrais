@@ -28,3 +28,7 @@
  ## Aprendizados
  
  Os modelos de gráficos tem grande importância na tradução de informações por formas praticas e intuitivas. Pela forma que lidam com vários dados e formas geométricas eu fiquei impressionado por descobrir que não seria necessário utilizar o JavaScript para construção do chamado Gráfico Donut, e também não precisaria usar o CSS para construção do gráfico de progresso, o ChartJS.
+
+ 
+ >Com o aprendizado que tive para desenvolver o gráfico **Gráfico Donut**, eu pude perceber como é grande o controle do CSS sobre diferentes formas gráficas e geometricas que podem ser facilmente mescladas e apresentadas!
+ Basicamente o Donut é composto por duas circunferências de interior transparente, uma cinza ao fundo representando 100% da circunferência e outra á frente da primeira que recebe as definições (<defs>) com o gradiente linear das cores escolhidas para representar a porcentágem que o gráfico tem a intenção de demonstrar.
