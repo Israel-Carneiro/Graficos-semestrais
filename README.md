@@ -35,3 +35,7 @@
 
  >Após uma conversa entre colegas sobre algumas opções de gráficos construidos a partir do JavaScript, a descoberta do **Framework ChartJS** caiu como uma luva para o meu projeto. Para minha surpresa este framework é bem simples de usar, com uma documentação bem definita e super funcional!
  Há muitas formas de se usar o framework, podendo construir graficos de barra, linear, formato de pizza, áreas de formas geométricas, inclusive é possivel mesclar alguns formatos. Tudo isso dispensando a ajda do CSS de maneira muito prática e rápida de se desenvolver.
+
+## Referência
+
+Como mencionei no ultimo parágrafo do tópico **Aprendizados**, as soluções que encontrei foram sujestões de colegas da comunidade Code, Marcellus Caio e Gabriela Cantarini, a quem eu agradesço muito pela ajuda:
