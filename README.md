@@ -43,3 +43,5 @@ Como mencionei no ultimo parágrafo do tópico **Aprendizados**, as soluções q
  - Sugestão do gráfico Donut por :arrow_right: https://github.com/marcelluscaio
  >Para desenvolver os dois gráficos Donut eu acompanhei as instruções em um vídeo informativo do canal do YouTube da Rocketseat (https://www.youtube.com/@rocketseat), mas o link do vídeo com as instruções não está mais disponível. É o projeto de número 08 de uma série de vídeos com o tema #boraCodar.
  
+ - Sugestão do gráfico com ChartJS por :arrow_right: https://github.com/gabicantarini
+ >Para desenvolver o gráfico construido com o framework ChartJS eu segui as instruções em um vídeo informativo na plataforma do YouTube (https://www.youtube.com/watch?v=l0K95at8BVg) e acessei a documentação oficial (https://www.chartjs.org/docs/latest/).
