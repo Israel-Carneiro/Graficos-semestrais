@@ -45,3 +45,13 @@ Como mencionei no ultimo parágrafo do tópico **Aprendizados**, as soluções q
  
  - Sugestão do gráfico com ChartJS por :arrow_right: https://github.com/gabicantarini
  >Para desenvolver o gráfico construido com o framework ChartJS eu segui as instruções em um vídeo informativo na plataforma do YouTube (https://www.youtube.com/watch?v=l0K95at8BVg) e acessei a documentação oficial (https://www.chartjs.org/docs/latest/).
+
+## Autor
+
+### Israel Carneiro de Oliveira
+ 
+<table border: none;" border="0" cellpadding="0">
+ <td>
+  <img width="200px" src="https://avatars.githubusercontent.com/u/113190387?s=400&u=3c497e66670ff827854b02bfd769529a19c9b5b1&v=4" rel="foto Israel Carneiro" />
+ </td>
+</table>
