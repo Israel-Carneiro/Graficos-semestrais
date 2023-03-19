@@ -6,7 +6,7 @@
 
  Dê uma olhada nos modelos de gráficos apresentados no projeto. Acesse o link para o deploy para melhor visualização
 
- <a href="https://israel-carneiro.github.io/Graficos-semestrais/" target="_blank"><img src="https://img.shields.io/badge/deploy-Formul%C3%A1rio-008000" rel="Deploy badge" /><a><br><br>
+ <a href="https://israel-carneiro.github.io/Graficos-semestrais/" target="_blank"><img src="https://img.shields.io/badge/deploy-Formul%C3%A1rio-008000" rel="Deploy badge" /></a><br><br>
 
 <div align="center">
   <img width="50%" src="imagem do resultado/screenshoot-graficos-semestrais-chartjs.png" alt="Designe da página de gráficos" />
@@ -58,6 +58,6 @@ Como mencionei no ultimo parágrafo do tópico **Aprendizados**, as soluções q
   <h4>Contatos</h4><br>
   <a href="https://www.linkedin.com/in/israel-carneiro-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" rel="LinkedIn" /></a><br>
   <a href="https://instagram.com/webcarneiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" rel="Instagran" /></a><br>
-  <a href="https://www.frontendmentor.io/profile/Israel-Carneiro" target="_blank"><img src="https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=" rel="FrontEnd Mentor" /><a>
+  <a href="https://www.frontendmentor.io/profile/Israel-Carneiro" target="_blank"><img src="https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=" rel="FrontEnd Mentor" /></a>
  </td>
 </table>
